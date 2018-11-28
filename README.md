@@ -10,7 +10,7 @@ A Portfolio/Resume website template for Programmers, Geeks, Developers, Hackers 
 3. Simple and Fast website User Interface.
 
 # Demo
-For Demo of this template you can visit www.prateek-mishra.com
+For Demo of this template you can visit www.ops-wing.com
 
 # Quick Start
 If you are reading this then I will assume that you know something about code and want to make a resume website of yours then this open-source project may help you setup it to showcase all your creations without effort.
@@ -20,4 +20,4 @@ If you are reading this then I will assume that you know something about code an
 
 # Contact
 
-All the links to reach me out is given here  :: www.prateek-mishra.com
+All the links to reach me out is given here  :: www.ops-wing.com
